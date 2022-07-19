@@ -1,8 +1,5 @@
-# cuckoo-sandbox-installation-step-by-step
+# cuckoo sandbox installation step by step
 
-
-
-## Installing Cuckoo Sandbox
 
 
 Useful websites:
